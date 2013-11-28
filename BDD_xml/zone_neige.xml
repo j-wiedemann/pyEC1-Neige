@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<element_racine>
+        <profil id="A1" sk200="0.45" sad="0"/>
+        <profil id="A2" sk200="0.45" sad="1.00"/>
+        <profil id="B1" sk200="0.55" sad="1.00"/>
+        <profil id="B2" sk200="0.55" sad="1.35"/>
+        <profil id="C1" sk200="0.65" sad="0"/>
+        <profil id="C2" sk200="0.65" sad="1.35"/>
+        <profil id="D" sk200="0.90" sad="1.80"/>
+        <profil id="E" sk200="1.40" sad="0"/>
+</element_racine>
